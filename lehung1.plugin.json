@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Mưa Audio",
+    "description": "Kho tiện ích truyện Trung Quốc của Mưa",
+    "source": "https://github.com/letuanhunghp2021-creator/vbook-ext"
+  },
+  "data": [
+    {
+      "name": "Bixiange (Bixian Các)",
+      "author": "Mưa Audio",
+      "path": "https://raw.githubusercontent.com/letuanhunghp2021-creator/vbook-ext/main/bixiange.zip",
+      "version": 1,
+      "source": "https://m.bixiange.me",
+      "icon": "https://m.bixiange.me/favicon.ico",
+      "description": "Nguồn truyện chữ từ m.bixiange.me",
+      "type": "novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
