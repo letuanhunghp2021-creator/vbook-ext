@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "Mưa Audio",
+    "description": "Tiện ích lấy truyện từ Bixiange"
+  },
+  "data": [
+    {
+      "name": "Bixiange",
+      "author": "Mưa",
+      "path": "https://raw.githubusercontent.com/username_cua_ban/vbook-ext/main/bixiange.zip",
+      "version": 1,
+      "source": "https://m.bixiange.me",
+      "type": "novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
