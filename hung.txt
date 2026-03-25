@@ -1,17 +1,18 @@
 {
   "metadata": {
-    "author": "Mưa Audio",
-    "description": "Tiện ích lấy truyện từ Bixiange"
+    "author": "vBook",
+    "description": ""
   },
   "data": [
     {
-      "name": "Bixiange",
-      "author": "Mưa",
-      "path": "https://raw.githubusercontent.com/username_cua_ban/vbook-ext/main/bixiange.zip",
-      "version": 1,
+      "name": "Bingsia",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
+      "version": 1
       "source": "https://m.bixiange.me",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
+      "description": "Đọc truyện trên trang bnsach.com/reader",
       "type": "novel",
-      "locale": "zh_CN"
-    }
-  ]
-}
+      "locale": "vi_VN"
+    },
+    {
